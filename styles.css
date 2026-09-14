@@ -1,6 +1,6 @@
-body {
-    background-color: #ffff66;
-    color: #660066;
+.index {
+    background-color: #2fcaa4;
+    color: #004b49;
     max-width: 900px;
     margin: 0 auto;
     padding: 24px;
@@ -20,15 +20,51 @@ nav {
     flex-wrap: wrap;
     gap: 20px;
     padding: 16px;
-    background-color: #660066;
 }
 
 nav a {
-    color: #ffff66;
     font-size: 18px;
     text-decoration: underline;
 }
 
+.navbar-index {
+    background-color: #004b49;
+}
+
+.navbar-index a {
+    color: #2fcaa4;
+}
+
+.navbar-spm1 {
+    background-color: #2a593a;
+}
+
+.navbar-spm1 a {
+    color: #a9c2f0;
+}
+
 nav a:hover {
     text-decoration-thickness: 3px;
+}
+
+.backgroundspm1 {
+    background-color: #a9c2f0;
+}
+
+.spm1-page {
+    color: #2a593a;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.spm1-h1 {
+    font-size: 28px;
+}
+
+.spm1-p {
+    font-size: 18px;
+    margin-bottom: 20px;
 }
