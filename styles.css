@@ -43,6 +43,22 @@ nav a {
     color: #a9c2f0;
 }
 
+.navbar-spm2 {
+    background-color: #BEDF49;
+}
+
+.navbar-spm2 a {
+    color: #a81f1f;
+}
+
+.navbar-spm3 {
+    background-color: #7f11a6;
+}
+
+.navbar-spm3 a {
+    color: #57e060;
+}
+
 nav a:hover {
     text-decoration-thickness: 3px;
 }
@@ -67,4 +83,46 @@ nav a:hover {
 .spm1-p {
     font-size: 18px;
     margin-bottom: 20px;
+}
+
+.spm2-h1 {
+    font-size: 28px;
+}
+
+.spm2-page {
+    color: #BEDF49;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.spm2-p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.spm3-h1 {
+    font-size: 28px;
+}
+
+.spm3-page {
+    color: #7f11a6;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.spm3-p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.background-spm2 {
+    background-color: #a81f1f;
+}
+
+.background-spm3 {
+    background-color: #57e060;
 }
