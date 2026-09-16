@@ -126,3 +126,11 @@ nav a:hover {
 .background-spm3 {
     background-color: #57e060;
 }
+
+.spm-bilde {
+    display: block;
+    width: 300px;
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
